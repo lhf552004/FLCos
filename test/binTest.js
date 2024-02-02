@@ -8,8 +8,8 @@ $(function () {
     paper.importSVG(svg);
     //bindDefaultEvent(paper);
 });
-这样两次输出的svg不一样
-下面贴出importSVG函数
+// 这样两次输出的svg不一样
+// 下面贴出importSVG函数
 Raphael.fn.importSVG = function (rawSVG, set) {
     try {
         if (typeof rawSVG === 'undefined')
