@@ -12,3 +12,6 @@ For translation message: where create the message, where translated
 
 ### Error Message  
 Where the error occur, the context is response to translate it, and wrap it. 
+
+### Migration
+This project is migrated from Gitlab, during the migration, the commits history were lost.
